@@ -1,0 +1,156 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.darkpink-bg{
+	background-color: #FFE5EB;
+} /*keeps all sections pink*/
+
+
+#welcome, #lipoils, #lipplumpers, #lipglosses h2{
+	color: #b6435c;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+} /*section headers*/
+
+#ranking h2 {
+	color: #b6435c;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+} /*only ranking section*/
+
+
+.white-bg{
+	background-color: #FFF7F4;
+}
+
+.fw-bolder{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.nav-link{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.lead{
+	font-family: sans-serif;
+	font-size: 12pt;
+	color: black;
+}
+
+.lead-ranking{
+	font-family: sans-serif;
+	font-size: 12pt;
+	color: black;
+	text-align: center;
+}
+
+.lead-head{
+	color: white;
+	font-size: 16pt;
+	line-height: 65pt;
+	text-shadow: 1pt 1pt black;
+} /*for blurb underneath welcome header*/
+
+.fw-bolder{
+	text-align: center;
+	line-height: 65pt;
+	text-shadow: 3pt 3pt #b6435c;
+	font-size: 55pt;
+} /*for the welcome to lovely lippies header*/
+
+
+.center-img{
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} /* centers the lip product images*/
+
+h3{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 13pt;
+	text-align: center;
+} /*for lip products*/
+
+h4{
+	text-indent: 11%;
+	font-family: sans-serif;
+	color: black;
+	font-size: 10pt;
+} /*for blurb under lip products*/
+
+img.center{
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.brown-bg{
+	background-color: rosybrown;
+} /*footer background*/
+
+
+.bi-instagram, .bi-tiktok, .bi-twitter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75px;
+	font-size: 30px;
+	word-spacing: 5px;
+} /*centers social media links*/
+
+
+.socialmedia{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+	font-size: 40px;
+	word-spacing: 3px;	
+} /*centers social media links*/
+
+
+.footer-logo{
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+	font-size: 40px;
+	word-spacing: 3px;
+}
+
+.brown-bg h3{
+	font-size: 18pt;
+	color: #FFF7F4;
+	text-shadow: 1pt 1pt black;
+} /*CONNECT WITH US*/
+
+a:link, a:visited {
+	text-decoration: none;
+	color: #b6435c;
+}
+
+a:hover {
+	text-decoration: none;
+color: rosybrown ;
+}
+
+a:active{
+	text-decoration: none;
+	color: #b6435c;
+}
+
+header {
+	height: 500px;
+	color: white;
+	background-image: url('images/backgroundimage.jpg');
+
+}
+
+
+.carousel-item{
+	text-align: center;
+} /* for carousel*/
+
+
+.bg-dark{
+	background-color: rosybrown !important;
+} /* for header background color*/
